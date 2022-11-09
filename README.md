@@ -2,7 +2,7 @@
 
 * 날씨 예보 (서울,런던,시카고)
 * 무료api를 사용해서 날씨의 정보는 5일치씩 보여지게 하였습니다.(6개이상은 유료네요 ㅠㅠ)
-* mvvm , retrofit2, coil 을 사용했습니다.
+* viewBinding , retrofit2, coil 을 사용했습니다.
 
 
 *<img
